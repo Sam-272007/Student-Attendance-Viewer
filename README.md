@@ -162,15 +162,5 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by: Sam-272007
-
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements!
-
-## 💬 Feedback
-
-If you have suggestions or feedback, please open an issue on GitHub!
-
----
+Created by: Dhevi Samuktha A
 
