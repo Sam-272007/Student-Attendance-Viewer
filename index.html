@@ -13,10 +13,7 @@
 
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
-      background-image: url("https://i.pinimg.com/1200x/1a/3c/c7/1a3cc786b3765e8016aaaccb32f5068d.jpg");
-      background-size: cover;
-      background-attachment: fixed;
-      background-position: center;
+      background: linear-gradient(135deg, #0f1419 0%, #1a1f2e 50%, #16213e 100%);
       min-height: 100vh;
       color: #e0e0e0;
       position: relative;
@@ -29,7 +26,8 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: rgba(15, 15, 30, 0.6);
+      background: radial-gradient(circle at 20% 80%, rgba(0, 212, 255, 0.1) 0%, transparent 50%),
+                  radial-gradient(circle at 80% 20%, rgba(124, 58, 237, 0.1) 0%, transparent 50%);
       pointer-events: none;
       z-index: -1;
     }
