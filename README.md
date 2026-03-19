@@ -174,4 +174,3 @@ If you have suggestions or feedback, please open an issue on GitHub!
 
 ---
 
-**Built with ❤️ for education and learning**
